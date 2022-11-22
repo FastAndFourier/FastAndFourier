@@ -1,9 +1,9 @@
 ### About me
 
-- 👋 Hi, I’m Louis. I'm a French master student in robotics 
+- 👋 Hi, I’m Louis. I'm a French PhD student in robotics and ML at Sorbonne University
 - 👀 I’m interested in AI and Signal Processing for robotics and brain/cognition-related topics.
-- 🌱 I’m currently learning about Social Signal Processing, Social Robotics, XAI, Speech Processing
-- 📫 How to reach me: louis.simoon@gmail.com
+- 🌱 I’m currently learning about Representation Learning, Deep Learning, and XAI
+- 📫 How to reach me: louis.simon@isir.upmc.fr
 
 <br />
 
